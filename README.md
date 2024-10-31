@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Midterm_Lab_Activity_2._1_Tibayan_Ibrahim
+namespace Activity_Lastname_Firstname
 {
     public partial class Form2 : Form
     {
